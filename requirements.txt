@@ -1,0 +1,6 @@
+# Adicione outras bibliotecas que seu projeto utilize aqui
+# Exemplo: se usar alguma biblioteca específica para interagir com o sistema Windows
+# pywin32
+
+# Para gerar executáveis
+pyinstaller
