@@ -1,7 +1,5 @@
 # WinGalleryManager
 
-<<<<<<< HEAD
-
 ## Descrição
 
 O **WinGalleryManager** é uma ferramenta desenvolvida em Python para facilitar o gerenciamento da Galeria do Explorador de Arquivos no Windows 11. Com ele, você pode remover ou restaurar a Galeria do Explorador de forma simples, rápida e segura, sem a necessidade de editar o registro manualmente.
